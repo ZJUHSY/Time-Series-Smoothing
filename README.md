@@ -1,6 +1,6 @@
-# Time-Series-Smoothing
-Time Series Smoothing
-|---- data: data folder 
-|---- images produced by visulization.
-|---- src---- Smoother.py: Provided different Smoother Class
-|---- Time Series Smoothing.ipynb: Notebook for conducting experiemnts
+# Time-Series-Smoothing \n
+Time Series Smoothing \n
+|---- data: data folder \n
+|---- images produced by visulization. \n
+|---- src---- Smoother.py: Provided different Smoother Class. \n
+|---- Time Series Smoothing.ipynb: Notebook for conducting experiemnts. \n
